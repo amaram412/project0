@@ -1,7 +1,15 @@
+
+@media only screen and (max-width: 249px) {
+  #index {
+    background-color: red;
+  }
+}
+
+
 ul {
-  color: red;
-  font-size: 2em;
-  font-family: garamond;
+  color: pink;
+  font-size: 1em;
+  font-family: sans-serif;
 
 }
 
@@ -15,3 +23,16 @@ ul {
   text-align: center;
 
 }
+
+#index {
+  background-color: purple;
+}
+
+.PCH-image {
+  border: black solid;
+  width: 500px;
+  height: 500px;
+  display: block;
+
+}
+
