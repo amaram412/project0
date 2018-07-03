@@ -1,0 +1,17 @@
+ul {
+  color: red;
+  font-size: 2em;
+  font-family: garamond;
+
+}
+
+.navigation-bar {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+}
+
+.nav-item {
+  text-align: center;
+
+}
